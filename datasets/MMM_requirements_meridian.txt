@@ -1,0 +1,9 @@
+tensorflow == 2.16.2
+tensorflow_probability == 0.24.0
+numpy == 1.26.4
+pandas == 2.2.2
+arviz == 0.20.0
+pickle == 4.0
+psutil == 5.9.5
+jax == 0.5.2
+jaxlib == 0.5.2
