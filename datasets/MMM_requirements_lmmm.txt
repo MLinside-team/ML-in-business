@@ -3,3 +3,5 @@ numpyro == 0.11.0
 scikit-learn == 1.6.1
 seaborn == 0.11.1
 matplotlib==3.7.3
+jax == 0.4.18
+jaxlib == 0.4.18
