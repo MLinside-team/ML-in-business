@@ -1,11 +1,11 @@
 numpy == 1.26.0
-pandas == 2.2.3
+pandas == 2.2.2
 scipy == 1.12.0
 optuna == 4.2.0
 lightweight_mmm == 0.1.9
-jax == 0.4.18
-jaxlib == 0.4.18
+jax == 0.4.27
+jaxlib == 0.4.27
 scikit-learn == 1.6.1
 seaborn == 0.11.1
-pyarrow == 14.0.0
+pyarrow == 14.0.1
 numpyro==0.11.0
