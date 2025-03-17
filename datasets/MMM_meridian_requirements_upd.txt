@@ -1,0 +1,13 @@
+pandas == 2.2.2
+numpy == 1.26.4
+tensorflow == 2.16.2
+tensorflow_probability == 0.24.0
+arviz == 0.20.0
+altair == 4.2.2
+immutabledict == 4.2.1
+joblib == 1.4.2
+scipy == 1.12.0
+xarray == 2025.1.2
+ml_dtypes == 0.4.0
+pickle == 4.0
+psutil == 5.9.5
